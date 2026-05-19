@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed May 20 00:25:44 2026
+
+@author: User
+"""
+
+anthropic
+pyTelegramBotAPI
+requests
+beautifulsoup4
